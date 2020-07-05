@@ -7,8 +7,11 @@ package com.atguigu;
  */
 
 public class TestA {
+
+    //项目经理创建的方法
+    public class TestA1 {
+
+    }
+
 }
 
-//项目经理创建的方法
-public class TestA1 {
-}
